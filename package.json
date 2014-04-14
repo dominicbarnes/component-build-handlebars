@@ -1,0 +1,30 @@
+{
+  "name": "component-builder-hbs",
+  "version": "0.0.0",
+  "description": "A component (v1+) builder plugin for Handlebars template precompilation",
+  "keywords": [
+    "component",
+    "builder",
+    "plugin",
+    "handlebars",
+    "hbs",
+    "template",
+    "compile",
+    "precompile"
+  ],
+  "author": "Dominic Barnes <dominic@dbarnes.info>",
+  "homepage": "https://github.com/dominicbarnes/component-builder-hbs",
+  "bugs": {
+    "url": "https://github.com/dominicbarnes/component-builder-hbs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dominicbarnes/component-builder-hbs.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^0.8.0",
+    "handlebars": "^2.0.0-alpha.2"
+  },
+  "main": "index.js"
+}
